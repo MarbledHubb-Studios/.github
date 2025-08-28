@@ -1,10 +1,6 @@
 [![mhstudios.png](https://i.postimg.cc/8zbc7sGQ/mhstudios.png)](https://postimg.cc/G4HdNL9q)
 
-</center>
+<h1 align="center">Welcome to MarbledHubb Studios!</h1>
 
-# Welcome to MarbledHubb Studios!
-
-</center>
-
-We are a Minecraft modpack, mod, resourcepack, and datapack studio! Creating immersive Minecraft experiences.
+<h1 alight="center">We are a Minecraft modpack, mod, resourcepack, and datapack studio! Creating immersive Minecraft experiences.</h1>
 
