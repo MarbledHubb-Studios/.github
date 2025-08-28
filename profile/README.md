@@ -2,5 +2,5 @@
 
 <h1 align="center">Welcome to MarbledHubb Studios!</h1>
 
-<p alight="center">We are a Minecraft modpack, mod, resourcepack, and datapack studio! Creating immersive Minecraft experiences.</p>
+<p align="center">We are a Minecraft modpack, mod, resourcepack, and datapack studio! Creating immersive Minecraft experiences.</p>
 
