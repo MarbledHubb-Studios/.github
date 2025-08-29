@@ -1,4 +1,4 @@
-https://i.postimg.cc/8zbc7sGQ/mhstudios.png
+[![MHS](https://i.postimg.cc/8zbc7sGQ/mhstudios.png)
 
 <h1 align="center">Welcome to MarbledHubb Studios!</h1>
 
